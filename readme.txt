@@ -3,3 +3,4 @@ Curator: Jacob Lowy
 
 Date Started: 12 Aug 2021
 Contact Info: jacob.lowy@duke.edu
+adding a line from local
